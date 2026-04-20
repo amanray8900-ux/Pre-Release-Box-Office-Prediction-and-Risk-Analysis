@@ -30,6 +30,8 @@ Both models were integrated seamlessly into Scikit-Learn `Pipeline` objects alon
 
 ## 📈 Results & Business Implementation
 *(Note: Replace the placeholder metrics below with your exact classification report numbers)*
+<img width="1120" height="368" alt="image" src="https://github.com/user-attachments/assets/1e728263-006a-40d1-a262-fb000d81c73b" />
+
 
 * **Decision Tree Classifier:** * Achieved a **Recall of X%** for Flops (Class 1).
   * **Precision of Y%** for Hits (Class 0).
